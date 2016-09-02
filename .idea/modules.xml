@@ -2,7 +2,9 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$USER_HOME$/PycharmProjects/ExcelReadAndWrite/.idea/ExcelReadAndWrite.iml" filepath="$USER_HOME$/PycharmProjects/ExcelReadAndWrite/.idea/ExcelReadAndWrite.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/awesome-webapp.iml" filepath="$PROJECT_DIR$/.idea/awesome-webapp.iml" />
+      <module fileurl="file://$USER_HOME$/PycharmProjects/web_blog/.idea/web_blog.iml" filepath="$USER_HOME$/PycharmProjects/web_blog/.idea/web_blog.iml" />
     </modules>
   </component>
 </project>
